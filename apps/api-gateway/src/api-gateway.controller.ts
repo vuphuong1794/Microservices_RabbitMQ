@@ -16,7 +16,7 @@ export class ApiGatewayController {
 
   @Post("order")
   createOrder(@Body() order: any) {
-    this.client.emit('order_created', order);
+    this.client.emit('order-created', order);
     return { message: 'Order send to rabbitmq', order };
   }
 }
