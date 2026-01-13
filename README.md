@@ -1,1 +1,3 @@
-<a href="https://ibb.co/bj5Ygywj"><img src="https://i.ibb.co/nqM4sVdq/Screenshot-2026-01-13-213722.png" alt="Screenshot-2026-01-13-213722" border="0"></a>
+<p align="center">
+<a href="https://ibb.co/FrqPrLw"><img src="https://i.ibb.co/G63h642/Untitled-Diagram-drawio.png" alt="Untitled-Diagram-drawio" border="0" width="700"></a>
+</p>
